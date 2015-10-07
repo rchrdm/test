@@ -1,0 +1,20 @@
+ <?xml version="1.0"
+encoding="ISO-8859-1" ?>
+<rss version="0.91">
+  <channel>
+    <title>rchrdm</title>
+    <link>http://rchrdm.github.io/test</link>
+    <description>Blog</description>
+    <language>de-de</language>
+    <copyright>rchrdm</copyright>
+    
+    <item>
+      <title>1510070915</title>
+      <link>http://rchrdm.github.io/test/1510070915.html</link>
+      <description>thema01</description>
+    </item>
+
+
+    
+  </channel>
+</rss>
