@@ -3,20 +3,11 @@
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://rchrdm.github.io/test/rss.xml">
   </head>
   <body>
-    hallo bjoern!
-    <p style="text-align:right"><a href="rss.xml">rss</a></p>
-    <p>
     <ul>
-      <li><a href="1510070915.html">[x]</a>
-	eintrag01 <br>
-	  hallo welt!</li>
-      <li><a href="1510070940.html">[x]</a>
-	eintrag02 <br>
-	hallo welt! ich bin im internet!</li>
       <li><a href="1510100100.html">[x]</a>
 	eintrag03 <br>
 	hallo welt! ich bin im internet!<br>
-	ich versuche ein video hochzuladen und anzuzeigen.<br>
+	ich versuche ein video hochzuladen und anzuzeigen.
 	<video src="ude-test.mp4" width="640" height="480" 
 	       autobuffer controls>
 	  
@@ -24,9 +15,8 @@
 	    Browser HTML5 Unterstützung hätte, wie z.B. der 
 	    aktuelle Firefox" </div>
 	  
-	</video><br>
-	<a href="ude-test.mp4">hier sonst der link</a></li>
-      
+	</video>
+      <a href="1510070940.html">hier sonst der link</a></li>
     </ul>
   </body>
 </html>
