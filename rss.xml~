@@ -1,5 +1,4 @@
- <?xml version="1.0"
-encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="0.91">
   <channel>
     <title>rchrdm</title>
@@ -10,8 +9,17 @@ encoding="ISO-8859-1" ?>
     
     <item>
       <title>1510070915</title>
-      <link>http://rchrdm.github.io/test/1510070915</link>
+      <link>http://rchrdm.github.io/test/1510070915.html</link>
       <description>thema01</description>
     </item>
+
+    <item>
+      <title>1510070940</title>
+      <link>http://rchrdm.github.io/test/1510070940.html</link>
+      <description>thema02</description>
+    </item>
+
+
+    
   </channel>
 </rss>
